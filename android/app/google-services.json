@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277481819480",
+    "project_id": "estatex-7ca76",
+    "storage_bucket": "estatex-7ca76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277481819480:android:2b910c7f37f2642602a92d",
+        "android_client_info": {
+          "package_name": "com.app.estatex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9iol4yLeYSluFMIQvpIKSjSc9UYEsWzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
